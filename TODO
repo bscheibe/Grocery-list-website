@@ -1,0 +1,6 @@
+Check for dupes upon insert. Provide feedback in response code?
+DONE: Change storage location to be localized.
+Handle sign-ins on front-end.
+Create site that displays existing list dynamically.
+Have interface for adding items.
+Make site mobile-friendly.
