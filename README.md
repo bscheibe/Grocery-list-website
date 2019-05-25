@@ -1,6 +1,7 @@
 # grocery_list
 
 Bruce Scheibe, 2019
+
 Rest service and mongo DB with a website to manage grocery items. 
 
 INSTALLING AND SETTING UP DB, API, AND WEBSITE:
